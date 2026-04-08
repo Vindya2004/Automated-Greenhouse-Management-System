@@ -34,4 +34,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 
 jwt:
-  secret: "mySecretKeyForJWTThatIsAtLeast32BytesLong1234567890"
+  secret: "MySuperSecretKeyForJWTTokenGeneration2025123456"
